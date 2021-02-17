@@ -51,10 +51,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/azizae-official/aebot.git"
+    "url": "git+https://github.com/dimas-rgb/bot-onn.git"
   },
   "bugs": {
-    "url": "https://github.com/azizae-official/aebot/issues"
+    "url": "https://github.com/dimas-rgb/bot-onn/issues"
   },
-  "homepage": "https://github.com/azizae-official/aebot#readme"
+  "homepage": "https://github.com/dimas-rgb/bot-onn#readme"
 }
