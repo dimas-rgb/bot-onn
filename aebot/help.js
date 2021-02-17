@@ -3,13 +3,13 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt) => {
 	return `
 
 \`\`\`SUBSCRIBE😁\`\`\`
-${---}
+${yt}
 
 \`\`\`Follow My Instagram\`\`\`
 ${instagram}
 
 \`\`\`GROUP OFFICIAL\`\`\`
- https://chat.whatsapp.com
+ https://chat.whatsapp.com/F1aEGHydcNqESvVkSlyRBp
 
 \`\`\`HARAP BACA NOTE DIATAS SEBELUM\`\`\`
 \`\`\`MENGGUNAKAN BOT\`\`\`
